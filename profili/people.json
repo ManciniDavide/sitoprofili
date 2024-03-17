@@ -1,0 +1,30 @@
+{
+    "profiles": [
+      {
+        "firstname": "Simon ",
+        "lastname": "Riley",
+        "bio": "Nato a Manchester, in una famiglia emarginata, con un padre alcolizzato e violento e un fratello maggiore che ha sempre cercato di proteggere. Decise di arruolarsi nell'esercito britannico per sfuggire a tutto quel degrado e riuscì perfino a passare la selezione delle forze speciali, entrando nel 22º Reggimento SAS.",
+        "nascita": "nato tra il 1993 e il 1997.",
+        "imgSrc": "/styles/images/Soldier1.webp",
+        "id": "Simon"
+      },
+   
+      {
+        "firstname": "John",
+        "lastname": "Price",
+        "bio": "John Price è stato da sempre un ufficiale della SAS impegnato nella ricerca di terroristi legati a un generale russo, il quale sta lottando per il controllo della regione caucasica fittizia dell'Urzikstan. Price inoltre chiede alla CIA aiuto per creare un'unità antiterrorismo, la Task Force 1-4-1.i",
+        "nascita": "...",
+        "imgSrc": "/styles/images/Soldier2.webp",
+        "id": "Price"
+      },
+   
+      {
+        "firstname": "MacTavish",
+        "lastname": "Soap",
+        "bio": "Il sergente John Soap MacTavish nasce in Scozia dove appena maggiorenne si unisce all'esercito del regno unito dove presta alcuni anni di servizio, per poi passare al SAS (Special Air Service) Britannico sotto il comando del Capitano John Price e del Tenente Simon Ghost Riley.",
+        "nascita": "...",
+        "imgSrc": "/styles/images/Soldier3.webp",
+        "id": "Soap"
+      }
+    ]
+   }
